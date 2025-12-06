@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PORN one-word domains still available to buy.
 
-This dataset contains 4,757 .PORN one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,755 .PORN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PORN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=porn-oneword-domains&utm_content=description.top) (4,757) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.PORN one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.porn        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.porn      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.porn        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.porn      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.porn  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.porn      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.porn  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.PORN one word domains
 | abatic.porn     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.porn    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.porn   | available | 50       | 1%     | 8      |           |         |         |
-| abc.porn        | available | 102      | 41%    | 3      |           |         |         |
+| abc.porn        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.porn  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.porn  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.porn | available | 56       | 1%     | 10     |           |         |         |
