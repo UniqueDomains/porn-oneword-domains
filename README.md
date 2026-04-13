@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C546%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C547%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C546%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .porn one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,546 rows · **Live catalog:** 9,546 domains
+**Public extract:** 9,547 rows · **Live catalog:** 9,546 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/porn`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PORN one-word domain 
 
 ### Files
 
-- `porn.csv` — public CSV extract (9,546 rows)
-- `porn.json` — public JSON extract (9,546 rows)
+- `porn.csv` — public CSV extract (9,547 rows)
+- `porn.json` — public JSON extract (9,547 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -66,13 +66,13 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | true.porn      | available | $154.98   | —             | 86             | 52     | 4      | namecheap       |
 | name.porn      | resell    | —         | —             | 82             | 76     | 4      | Spaceship, Inc. |
-| design.porn    | premium   | $465      | $465          | 108            | 50     | 6      | name.com        |
+| design.porn    | premium   | $465      | $465          | 108            | 49     | 6      | name.com        |
 | athletics.porn | available | $154.98   | —             | 69             | 52     | 9      | namecheap       |
 | prompt.porn    | resell    | —         | —             | 114            | 69     | 6      | Porkbun         |
 | deep.porn      | premium   | $465      | $465          | 72             | 43     | 4      | name.com        |
 | clear.porn     | available | $154.98   | —             | 90             | 49     | 5      | namecheap       |
 | identity.porn  | resell    | —         | —             | 80             | 65     | 8      | NameCheap, Inc. |
-| daily.porn     | premium   | $465      | $465          | 74             | 40     | 5      | name.com        |
+| daily.porn     | premium   | $465      | $465          | 74             | 39     | 5      | name.com        |
 | travel.porn    | available | $129.99   | $160.99       | 115            | 48     | 6      | name.com        |
 | web.porn       | resell    | —         | —             | 72             | 61     | 3      | Name.com, Inc.  |
 | personal.porn  | premium   | $322.40   | $322.40       | 91             | 35     | 8      | namecheap       |
@@ -82,7 +82,7 @@ print(df.head())
 | creator.porn   | available | $154.98   | —             | 70             | 45     | 7      | namecheap       |
 | the.porn       | resell    | —         | —             | 98             | 58     | 3      | Name.com, Inc.  |
 | secret.porn    | premium   | —         | —             | 112            | 100    | 6      | —               |
-| forge.porn     | available | $154.98   | —             | 62             | 45     | 5      | namecheap       |
+| forge.porn     | available | $154.98   | —             | 62             | 44     | 5      | namecheap       |
 | shop.porn      | resell    | —         | —             | 78             | 54     | 4      | Name.com, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,546-row public sample | 9,546 live domains                               |
+| 9,547-row public sample | 9,546 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
