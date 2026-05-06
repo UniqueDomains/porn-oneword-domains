@@ -1,10 +1,10 @@
-# Available .PORN One-Word Domains (12,365)
+# Available .PORN One-Word Domains (12,364)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C365%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C364%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .porn one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,365 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,364 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,364 domains · **Median ask:** $155.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/porn`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| donuts.porn       | available | $154.98   | —             | 54             | 62     | 6      | namecheap        |
-| makes.porn        | resell    | —         | —             | 66             | 17     | 5      | GoDaddy.com, LLC |
-| stores.porn       | premium   | $310      | —             | 62             | 20     | 6      | name.com         |
-| regions.porn      | available | $154.98   | —             | 64             | 59     | 7      | namecheap        |
-| does.porn         | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC |
-| dancers.porn      | premium   | $310      | —             | 64             | 9      | 7      | name.com         |
-| whynot.porn       | available | $154.98   | —             | 74             | 39     | 7      | namecheap        |
-| aliens.porn       | available | $154.98   | —             | 56             | 35     | 6      | namecheap        |
-| homes.porn        | available | $154.98   | —             | 86             | 34     | 5      | namecheap        |
-| William.porn      | available | $154.98   | —             | 74             | 31     | 7      | namecheap        |
-| maps.porn         | available | $154.98   | —             | 56             | 31     | 4      | namecheap        |
-| heroes.porn       | available | $154.98   | —             | 68             | 29     | 6      | namecheap        |
-| Jim.porn          | available | $154.98   | —             | 78             | 28     | 3      | namecheap        |
-| commonground.porn | available | $154.98   | —             | 74             | 28     | 13     | namecheap        |
-| gems.porn         | available | $154.98   | —             | 70             | 28     | 4      | namecheap        |
-| brands.porn       | available | $154.98   | —             | 62             | 28     | 6      | namecheap        |
-| fight.porn        | available | $154.98   | —             | 72             | 27     | 5      | namecheap        |
-| systems.porn      | available | $154.98   | —             | 46             | 27     | 7      | namecheap        |
-| trades.porn       | available | $154.98   | —             | 71             | 26     | 6      | namecheap        |
-| traders.porn      | available | $154.98   | —             | 60             | 26     | 7      | namecheap        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| homes.porn    | available | $154.98   | —             | 86             | 34     | 5      | namecheap        |
+| barup.porn    | available | $154.98   | —             | 82             | 2      | 6      | namecheap        |
+| getup.porn    | available | $154.98   | —             | 82             | 14     | 6      | namecheap        |
+| Apples.porn   | available | $154.98   | —             | 90             | 16     | 6      | namecheap        |
+| QandA.porn    | available | $154.98   | —             | 80             | 10     | 7      | namecheap        |
+| hangon.porn   | available | $154.98   | —             | 82             | 6      | 7      | namecheap        |
+| pierogi.porn  | available | $154.98   | —             | 82             | 7      | 7      | namecheap        |
+| messages.porn | available | $154.98   | —             | 80             | 16     | 8      | namecheap        |
+| presents.porn | available | $154.98   | —             | 80             | 9      | 8      | namecheap        |
+| donuts.porn   | available | $154.98   | —             | 54             | 62     | 6      | namecheap        |
+| makes.porn    | resell    | —         | —             | 66             | 17     | 5      | GoDaddy.com, LLC |
+| stores.porn   | premium   | $310      | —             | 62             | 20     | 6      | name.com         |
+| regions.porn  | available | $154.98   | —             | 64             | 59     | 7      | namecheap        |
+| does.porn     | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC |
+| dancers.porn  | premium   | $310      | —             | 64             | 9      | 7      | name.com         |
+| whynot.porn   | available | $154.98   | —             | 74             | 39     | 7      | namecheap        |
+| aliens.porn   | available | $154.98   | —             | 56             | 35     | 6      | namecheap        |
+| William.porn  | available | $154.98   | —             | 74             | 31     | 7      | namecheap        |
+| maps.porn     | available | $154.98   | —             | 56             | 31     | 4      | namecheap        |
+| heroes.porn   | available | $154.98   | —             | 68             | 29     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,365 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,364 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all in the .porn extension, so the main evaluation question is not TLD fit but keyword fit. Short, direct terms such as tips.porn or homes.porn are easier to understand at a glance, while place names like NYC.porn can feel more specific and commercially targeted. The median ask of 155.26 suggests many names in this set sit in a relatively accessible price range, but quality still varies widely. When comparing these domains, focus on keyword clarity, memorability, potential trademark issues, and whether the exact term is strong enough to carry a niche extension on its own.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .porn extension.
+- Median ask is 155.26 across 12,364 listed domains.
+- Generic terms are usually easier to assess than invented words.
+- Check place names and brands carefully for trademark risk.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
