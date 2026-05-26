@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .porn one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,364 domains · **Median ask:** $155.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/porn`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | homes.porn    | available | $154.98   | —             | 86             | 34     | 5      | namecheap        |
 | barup.porn    | available | $154.98   | —             | 82             | 2      | 6      | namecheap        |
-| getup.porn    | available | $154.98   | —             | 82             | 14     | 6      | namecheap        |
+| getup.porn    | available | $154.98   | —             | 82             | 15     | 6      | namecheap        |
 | Apples.porn   | available | $154.98   | —             | 90             | 16     | 6      | namecheap        |
 | QandA.porn    | available | $154.98   | —             | 80             | 10     | 7      | namecheap        |
 | hangon.porn   | available | $154.98   | —             | 82             | 6      | 7      | namecheap        |
@@ -74,16 +74,16 @@ print(df.head())
 | messages.porn | available | $154.98   | —             | 80             | 16     | 8      | namecheap        |
 | presents.porn | available | $154.98   | —             | 80             | 9      | 8      | namecheap        |
 | donuts.porn   | available | $154.98   | —             | 54             | 62     | 6      | namecheap        |
-| makes.porn    | resell    | —         | —             | 66             | 17     | 5      | GoDaddy.com, LLC |
+| actors.porn   | resell    | $154.98   | —             | 60             | 14     | 6      | GoDaddy.com, LLC |
 | stores.porn   | premium   | $310      | —             | 62             | 20     | 6      | name.com         |
 | regions.porn  | available | $154.98   | —             | 64             | 59     | 7      | namecheap        |
-| does.porn     | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC |
+| makes.porn    | resell    | —         | —             | 66             | 17     | 5      | GoDaddy.com, LLC |
 | dancers.porn  | premium   | $310      | —             | 64             | 9      | 7      | name.com         |
-| whynot.porn   | available | $154.98   | —             | 74             | 39     | 7      | namecheap        |
+| whynot.porn   | available | $154.98   | —             | 74             | 44     | 7      | namecheap        |
+| does.porn     | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC |
 | aliens.porn   | available | $154.98   | —             | 56             | 35     | 6      | namecheap        |
 | William.porn  | available | $154.98   | —             | 74             | 31     | 7      | namecheap        |
 | maps.porn     | available | $154.98   | —             | 56             | 31     | 4      | namecheap        |
-| heroes.porn   | available | $154.98   | —             | 68             | 29     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
