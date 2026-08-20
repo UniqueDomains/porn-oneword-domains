@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .porn one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,135 domains · **Median ask:** $124.83 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/porn`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| okay.porn      | available | —         | —             | high           | low    | 4      | —                |
-| feel.porn      | available | $154.98   | —             | high           | low    | 4      | namecheap        |
-| one.porn       | available | —         | —             | high           | medium | 3      | —                |
-| clean.porn     | available | $154.98   | —             | high           | low    | 5      | namecheap        |
 | bay.porn       | available | $69.98    | $154.98       | low            | low    | 3      | namecheap        |
 | aid.porn       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
 | sport.porn     | premium   | $310      | —             | high           | low    | 5      | name.com         |
@@ -84,6 +80,10 @@ print(df.head())
 | tug.porn       | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | xix.porn       | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | ahuh.porn      | available | $154.98   | —             | high           | low    | 4      | namecheap        |
+| amok.porn      | available | $69.98    | $154.98       | low            | low    | 4      | namecheap        |
+| atop.porn      | available | $154.98   | —             | medium         | low    | 4      | namecheap        |
+| been.porn      | available | $154.98   | —             | medium         | low    | 4      | namecheap        |
+| chop.porn      | available | $154.98   | —             | medium         | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
