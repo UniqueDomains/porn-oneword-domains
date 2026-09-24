@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .porn one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,302 domains · **Median ask:** $94.32 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/porn`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | put.porn       | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | hairy.porn     | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.  |
 | sup.porn       | available | $154.98   | —             | high           | low    | 3      | namecheap        |
-| christian.porn | resell    | —         | —             | high           | medium | 9      | Porkbun          |
+| christian.porn | resell    | —         | —             | medium         | low    | 9      | Porkbun          |
 | tug.porn       | available | $154.98   | —             | high           | low    | 3      | namecheap        |
 | xix.porn       | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap        |
 | ahuh.porn      | available | $154.98   | —             | high           | low    | 4      | namecheap        |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
