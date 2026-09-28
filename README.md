@@ -1,10 +1,10 @@
-# Available .PORN One-Word Domains (22,450)
+# Available .PORN One-Word Domains (22,921)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C450%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C921%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .porn one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,450 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,921 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,450 domains · **Median ask:** $88.83 · **High-demand under $2,500:** 11
+**Public extract:** 1,000 rows · **Live catalog:** 22,921 domains · **Median ask:** $87.80 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/porn`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | lit.porn      | resell    | $154.98   | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | cheating.porn | premium   | $310      | $310          | medium         | low    | 8      | name.com         |
 | hie.porn      | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap        |
-| curious.porn  | resell    | $154.98   | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| take.porn     | resell    | $154.98   | —             | high           | low    | 4      | namecheap        |
+| slaves.porn   | premium   | —         | —             | low            | low    | 6      | —                |
 | nas.porn      | available | $69.98    | $154.98       | high           | medium | 3      | namecheap        |
-| bat.porn      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| curious.porn  | resell    | $154.98   | —             | high           | low    | 7      | GoDaddy.com, LLC |
 | nut.porn      | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
-| hon.porn      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| bat.porn      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | pit.porn      | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
-| chic.porn     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| hon.porn      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | prn.porn      | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap        |
-| cock.porn     | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.   |
+| chic.porn     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | uuh.porn      | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap        |
-| dire.porn     | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| cock.porn     | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.   |
 | aery.porn     | available | $69.98    | $154.98       | high           | low    | 4      | namecheap        |
-| loft.porn     | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
+| dire.porn     | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | afrl.porn     | available | $69.98    | $154.98       | medium         | low    | 4      | namecheap        |
-| kinky.porn    | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.   |
-| aiai.porn     | available | $69.98    | $154.98       | high           | low    | 4      | namecheap        |
+| loft.porn     | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,450 live domains                        |
+| 1,000-row public sample | 22,921 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 11 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PORN One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
